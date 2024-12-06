@@ -1,4 +1,4 @@
-package so.karasiki.backend.response;
+package so.karasiki.backend.responses;
 
 import lombok.Getter;
 import lombok.Setter;
